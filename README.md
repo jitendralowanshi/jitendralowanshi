@@ -21,7 +21,7 @@
 <br />
 <h2>🚀 Some Tools I Use</h2>
 <br />
-<p align="left">
+<!-- <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 10px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 10px;" />
@@ -40,5 +40,5 @@
 <center>
 <img src="https://github-readme-stats.vercel.app/api?username=anuragtech02&show_icons=true&count_private=true" alt="anuragtech02-stats" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Anuragtech02.Anuragtech02" alt="visitors"></p>
-</center>
+</center> -->
 
