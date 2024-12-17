@@ -1,21 +1,21 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Anuragtech02">Jitendra Lowanshi</a></h2>
 <p>I'm currently a BE Undergrad at <strong><a href="https://www.ietdavv.edu.in/">IET DAVV</a></strong> pursuing <strong>Computer Engineering</strong>. I am working on some side projects and trying to make ideas come to life.</p>
-<p> <a href="https://www.linkedin.com/in/jitendralowanshi"><img src="https://img.shields.io/badge/-@anuragpal02-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/anuragpal02/" alt="LinkedIn Badge"></a>&nbsp;
-<a href = "jitendralowanshi7354@gmnail.com"><img src="https://img.shields.io/badge/-@apal895@gmail.com-D14836?style=flat-square&amp;&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href = "https://instagram.com/jitendra_lowanshi143"><img src="https://img.shields.io/badge/-@anurag__.__-E4405F?style=flat-square&amp;&logo=instagram&logoColor=white"/></a>&nbsp;
+<p> <a href="https://www.linkedin.com/in/jitendralowanshi"><img src="https://img.shields.io/badge/-@jitendralowanshi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/anuragpal02/" alt="LinkedIn Badge"></a>&nbsp;
+<a href = "jitendralowanshi7354@gmnail.com"><img src="https://img.shields.io/badge/-@jitendralowanshi7354@gmail.com-D14836?style=flat-square&amp;&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href = "https://instagram.com/jitendra_lowanshi143"><img src="https://img.shields.io/badge/-@jitendra_lowanshi143-E4405F?style=flat-square&amp;&logo=instagram&logoColor=white"/></a>&nbsp;
 
 </p>
 &nbsp; &nbsp;
 <br />
-<img align="right" src="https://media.giphy.com/media/1iUZiXocraqiP7zy/giphy.gif?cid=ecf05e471znce9nqti0ov88vdp69k2iniwiog18lxe4krso9&rid=giphy.gif&ct=g" />
+<!-- <img align="right" src="https://media.giphy.com/media/1iUZiXocraqiP7zy/giphy.gif?cid=ecf05e471znce9nqti0ov88vdp69k2iniwiog18lxe4krso9&rid=giphy.gif&ct=g" /> -->
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://https://github.com/jitendralowanshi">useReactHooks</a>.</li>
-<li>🧐 Learning about <strong>system design</strong>, <strong>Jest</strong>, and a bit of <strong>Cloud</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Anuragtech02">Github</a>.</li>
+<li>🔭 I’m currently working on <a href="https://https://github.com/jitendralowanshi"> web Development </a>.</li>
+<!-- <li>🧐 Learning about <strong>system design</strong>, <strong>Jest</strong>, and a bit of <strong>Cloud</strong>.</li> -->
+<!-- <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Anuragtech02">Github</a>.</li> -->
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>react, design, and iOt</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1_uva3U4sECecR1c5kKIPghGvh4pCaz_s/view?usp=sharing">resume</a>.</li>
+<!-- <li>📙 Check out my <a href="https://drive.google.com/file/d/1_uva3U4sECecR1c5kKIPghGvh4pCaz_s/view?usp=sharing">resume</a>.</li> -->
 <li>🎉 Fun Fact: 鬼滅の刃が好き</li>
 </ul>
 <br />
