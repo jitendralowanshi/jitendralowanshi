@@ -3,7 +3,6 @@
 <p>I'm currently a BE Undergrad at <strong><a href="https://www.ietdavv.edu.in/">IET DAVV</a></strong> pursuing <strong>Computer Engineering</strong>. I am working on some side projects and trying to make ideas come to life.</p>
 
 <a href="jitendralowanshi7354@gmnail.com"><img src="https://img.shields.io/badge/-@jitendralowanshi7354@gmail.com-D14836?style=flat-square&amp;&logo=gmail&logoColor=black"/></a>&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - 🔭 I’m currently working on **Problem solving skills**
 
