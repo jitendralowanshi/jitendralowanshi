@@ -1,8 +1,18 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Anuragtech02">Jitendra Lowanshi</a></h2>
 
 <p>I'm currently a BE Undergrad at <strong><a href="https://www.ietdavv.edu.in/">IET DAVV</a></strong> pursuing <strong>Computer Engineering</strong>. I am working on some side projects and trying to make ideas come to life.</p>
+
 <a  href = "jitendralowanshi7354@gmnail.com"><img src="https://img.shields.io/badge/-@jitendralowanshi7354@gmail.com-D14836?style=flat-square&amp;&logo=gmail&logoColor=white"/></a>&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendralowanshi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendralowanshi" /> </p>
+
+- 🔭 I’m currently working on **Problem solving skills**
+
+- 🌱 I’m currently learning **Data Strucrute & Alogorithms**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **Jitendralowanshi7354@gmail.com**
+
 
 <p>   
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +24,8 @@
 <!-- <a href="https://www.linkedin.com/in/jitendralowanshi"><img src="https://img.shields.io/badge/-@linkedin.com/in/jitendralowanshi-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/anuragpal02/" alt="LinkedIn Badge"></a>&nbsp;
 
 <a href = "https://instagram.com/jitendra_lowanshi143"><img src="https://img.shields.io/badge/-@jitendra_lowanshi143-E4405F?style=flat-square&amp;&logo=instagram&logoColor=white"/></a>&nbsp;  -->
+</p>&nbsp; &nbsp;
 
-</p>
-&nbsp; &nbsp;
 <br />
 </p>
 
@@ -32,10 +41,10 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin-left: 10px;" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />  -->
 </p>
-
 <br/>
 <center> 
-<img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&count_private=true" alt="jitendralowanshi-Status" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&count_private=true" alt="jitendralowanshi-Status" /> -->
 <!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=jitendralowanshi.jitendralowanshi" alt="visitors"></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&locale=en" alt="jitendralowanshi" /></p>
 </center>
 
