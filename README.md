@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **Jitendralowanshi7354@gmail.com**
 
-
 <p>   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,10 +24,8 @@
 
 <a href = "https://instagram.com/jitendra_lowanshi143"><img src="https://img.shields.io/badge/-@jitendra_lowanshi143-E4405F?style=flat-square&amp;&logo=instagram&logoColor=white"/></a>&nbsp;  -->
 </p>&nbsp; &nbsp;
-
 <br />
 </p>
-
 <h2>🚀 Some Tools I Use</h2>
 <br />
 <p align="left">
