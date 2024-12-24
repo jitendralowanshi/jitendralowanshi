@@ -14,14 +14,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 10px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" style="margin-left: 10px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-left: 10px;" />
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-left: 10px;" /> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 10px;" /> 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin-left: 10px;" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />  -->
 </p>
 
 <br/>
 <center> 
-<img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&count_private=true" alt="jitendralowanshi-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&count_private=true" alt="jitendralowanshi-Status" />
 <!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=jitendralowanshi.jitendralowanshi" alt="visitors"></p> -->
 </center>
 
