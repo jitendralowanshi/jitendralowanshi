@@ -1,6 +1,7 @@
-<h2>Hey 👋, I'm <a href="https://github.com/Anuragtech02">Jitendra Lowanshi</a></h2>
-
-<p>I'm currently a BE Undergrad at <strong><a href="https://www.ietdavv.edu.in/">IET DAVV</a></strong> pursuing <strong>Computer Engineering</strong>. I am working on some side projects and trying to make ideas come to life.</p>
+<h2>Hey 👋, I'm <a href="https://github.com/jitendralowanshi" Style="none">Jitendra Lowanshi</a></h2>
+<p>
+I'm Currently pursuing BE, 4th year Undergraduate <strong>Computer Engineering</strong> Student At <strong><a href="https://www.ietdavv.edu.in/">Institute Of Engineering & Technology(IET) Davv</a></strong>.        I am working on Problem solving Skills & some side Projects and trying to make ideas come to life .
+</p>
 
 <a href="jitendralowanshi7354@gmnail.com"><img src="https://img.shields.io/badge/-@jitendralowanshi7354@gmail.com-D14836?style=flat-square&amp;&logo=gmail&logoColor=black"></a>&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendralowanshi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendralowanshi"/></p>
