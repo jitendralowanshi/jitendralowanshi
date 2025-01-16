@@ -44,7 +44,7 @@ I'm Currently pursuing BE, 4th year Undergraduate <strong>Computer Engineering</
 <p align="left"> 
   
 <img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&locale=en" alt="jitendralowanshi-Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendralowanshi&show_icons=true&locale=en&layout=compact" alt="jitendralowanshi" width="500px" height="195px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendralowanshi&show_icons=true&locale=en&layout=compact" alt="jitendralowanshi" height="195px"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&count_private=true" alt="jitendralowanshi-Stats" /
 
 
