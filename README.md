@@ -29,7 +29,7 @@ I'm Currently pursuing BE, 4th year Undergraduate <strong>Computer Engineering</
 </p>
 <h2>🚀 Some Tools I Use</h2>
 <br />
-<p align="left">
+<p align="left" heigt="30px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-left: 10px;" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-left: 10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C_programming_language" width="35" height="35" style="margin-left: 10px;" />
@@ -41,8 +41,13 @@ I'm Currently pursuing BE, 4th year Undergraduate <strong>Computer Engineering</
 </p>
 <br/>
 <center> 
-<img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&count_private=true" alt="jitendralowanshi-Stats" />
-<!-- <p><img src="https://visitor-badge.glitch.me/badge?page_id=jitendralowanshi.jitendralowanshi" alt="visitors"></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&locale=en" alt="jitendralowanshi" /></p> -->
+<p align="left"> 
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&locale=en" alt="jitendralowanshi-Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendralowanshi&show_icons=true&locale=en&layout=compact" alt="jitendralowanshi" width="500px" height="195px"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&count_private=true" alt="jitendralowanshi-Stats" /
+
+
+</p>
 </center>
 
