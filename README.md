@@ -13,7 +13,7 @@ I'm Currently pursuing BE, 4th year Undergraduate <strong>Computer Engineering</
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **Jitendralowanshi7354@gmail.com**
+- 📫 How to reach me **Linkedin**
 <p>   
 <h3 align="left" style="bolder">Let's Connect with me :</h3>
 <p align="left">
