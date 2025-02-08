@@ -7,7 +7,7 @@ I'm Currently pursuing BE, 4th year Undergraduate <strong>Computer Engineering</
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendralowanshi&label=Profile%20views&color=0e75b6&style=flat" alt="jitendralowanshi"/></p>
 
 
-<div ><img height="250" src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" align="right" /></div>
+<div ><img height="200" src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" align="right" /></div>
 
 - 🔭 I’m currently working on **Problem solving skills**
 
