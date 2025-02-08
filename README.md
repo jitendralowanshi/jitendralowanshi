@@ -48,8 +48,7 @@ I'm Currently pursuing BE, 4th year Undergraduate <strong>Computer Engineering</
   
 <img src="https://github-readme-stats.vercel.app/api?username=jitendralowanshi&show_icons=true&locale=en" alt="jitendralowanshi-Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendralowanshi&show_icons=true&locale=en&layout=compact" alt="jitendralowanshi" height="195px"/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jitendralowanshi&theme=dark&hide_border=false)<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jitendralowanshi&theme=dark&card_width=825" alt="GitHub Streak" /></a>
 
 </p>
 </center>
